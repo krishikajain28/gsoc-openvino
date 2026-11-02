@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+openvino_env/
+venv/
+
+# Generated OpenVINO models
+*.bin
+*.xml
+
+# Test images
+*.jpg
+*.jpeg
+*.png
+
+# IDE
+.vscode/
